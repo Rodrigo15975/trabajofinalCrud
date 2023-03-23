@@ -1,0 +1,14 @@
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.Properties.Resources.resources
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.csproj.GenerateResource.cache
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaControlador.exe.config
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaControlador.exe
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaDatos.exe
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaDatos.pdb
+C:\Users\SENATI\source\repos\CapaControlador\bin\Debug\CapaDatos.exe.config
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.exe
+C:\Users\SENATI\source\repos\CapaControlador\obj\Debug\CapaControlador.pdb

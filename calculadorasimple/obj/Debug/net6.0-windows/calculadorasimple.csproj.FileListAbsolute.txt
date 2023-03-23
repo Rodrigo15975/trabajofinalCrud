@@ -1,0 +1,17 @@
+C:\Users\SENATI\source\repos\calculadorasimple\bin\Debug\net6.0-windows\calculadorasimple.exe
+C:\Users\SENATI\source\repos\calculadorasimple\bin\Debug\net6.0-windows\calculadorasimple.deps.json
+C:\Users\SENATI\source\repos\calculadorasimple\bin\Debug\net6.0-windows\calculadorasimple.runtimeconfig.json
+C:\Users\SENATI\source\repos\calculadorasimple\bin\Debug\net6.0-windows\calculadorasimple.dll
+C:\Users\SENATI\source\repos\calculadorasimple\bin\Debug\net6.0-windows\calculadorasimple.pdb
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.csproj.AssemblyReference.cache
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.Form1.resources
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.csproj.GenerateResource.cache
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.AssemblyInfoInputs.cache
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.AssemblyInfo.cs
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.dll
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\refint\calculadorasimple.dll
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.pdb
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\calculadorasimple.genruntimeconfig.cache
+C:\Users\SENATI\source\repos\calculadorasimple\obj\Debug\net6.0-windows\ref\calculadorasimple.dll

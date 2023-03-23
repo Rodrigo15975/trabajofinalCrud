@@ -1,0 +1,15 @@
+C:\Users\SENATI\source\repos\ejem01\bin\Debug\net6.0\ejem01.exe
+C:\Users\SENATI\source\repos\ejem01\bin\Debug\net6.0\ejem01.deps.json
+C:\Users\SENATI\source\repos\ejem01\bin\Debug\net6.0\ejem01.runtimeconfig.json
+C:\Users\SENATI\source\repos\ejem01\bin\Debug\net6.0\ejem01.dll
+C:\Users\SENATI\source\repos\ejem01\bin\Debug\net6.0\ejem01.pdb
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.csproj.AssemblyReference.cache
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.AssemblyInfoInputs.cache
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.AssemblyInfo.cs
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.dll
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\refint\ejem01.dll
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.pdb
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ejem01.genruntimeconfig.cache
+C:\Users\SENATI\source\repos\ejem01\obj\Debug\net6.0\ref\ejem01.dll

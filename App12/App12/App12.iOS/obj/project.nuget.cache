@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cQ3ReGfsvhmc0ObpW2NQDe9VflNlre0e96+Bil0uq8+YfIaVOpDY5Bzim6SIKRqlpiEVdohD/SII8q1GXrqaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SENATI\\source\\repos\\App12\\App12\\App12.iOS\\App12.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SENATI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SENATI\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\SENATI\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
